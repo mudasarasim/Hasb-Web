@@ -11,6 +11,11 @@
     word-wrap: normal !important;
 }
 
+.ush_image_1 a img{
+       height: 130px;
+       margin-top: -30px;
+}
+
 .wpcf7 .hidden-fields-container {
     display: none;
 }
